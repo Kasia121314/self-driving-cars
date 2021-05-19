@@ -1,0 +1,62 @@
+body {
+  font-family: sans-serif;
+  color: #faebf5;
+  background-image: url("pi.jpg");
+  background-size: 100%;
+}
+.tytul {
+  font-family:Papyrus;
+  color: #ff99ff;
+  text-align: center;
+}
+.tytul2 {
+  font-family: Monaco;
+  background-color: #f5a3f5;
+  text-align: center;
+}
+.tekst{
+  color: black;
+  text-align: center;
+}
+.tytul3{
+  font-family: Monaco;
+  background-color: #e3b5e3;
+  text-align: center;
+}
+.tekst2{
+  color: black;
+  text-align: center;
+}
+.tytul4{
+  font-family: Monaco;
+  background-color: #dbbddb;
+  text-align: center;
+}
+.tekst3{
+  color: black;
+  text-align: center;
+}
+.tytul5{
+  font-family: Monaco;
+  background-color: #d6c2d6;
+  text-align: center;
+
+}
+.tekst4{
+  font-size: 40px;
+  font-family: Copperplate;
+  color: #d147a3;
+  text-align: center;
+}
+ul{
+  color:black;
+  text-align:center;
+}
+.tekst5{
+  color: black;
+  text-align: center;
+}
+ol{
+  color:black;
+  text-align:center;
+}

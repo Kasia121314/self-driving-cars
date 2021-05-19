@@ -1,0 +1,13 @@
+body{
+  font-family: sans-serif;
+  color: #b399ff;
+  background-image: url("purple.jpg");
+  background-size: 100%;
+}
+.tytul11{
+  font-family: Monaco;
+  text-align: center;
+}
+ol{
+  text-align:center;
+}
